@@ -31,7 +31,6 @@ resolver: lts-16.11
 packages:
   - .
   - ./core/lang
-  - ./core/async-task
   - ./infrastructure/logger
   - ./infrastructure/resource
 # Dependency packages to be pulled from upstream that are not in the resolver.
